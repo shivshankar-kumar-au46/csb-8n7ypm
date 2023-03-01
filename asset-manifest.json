@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/css/main.18874c84.chunk.css",
+    "main.js": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/js/main.6ae70060.chunk.js",
+    "main.js.map": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/js/main.6ae70060.chunk.js.map",
+    "runtime-main.js": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/js/runtime-main.47f11ec8.js",
+    "runtime-main.js.map": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/js/runtime-main.47f11ec8.js.map",
+    "static/js/2.73da8367.chunk.js": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/js/2.73da8367.chunk.js",
+    "static/js/2.73da8367.chunk.js.map": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/js/2.73da8367.chunk.js.map",
+    "index.html": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/index.html",
+    "static/css/main.18874c84.chunk.css.map": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/css/main.18874c84.chunk.css.map",
+    "static/js/2.73da8367.chunk.js.LICENSE.txt": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/js/2.73da8367.chunk.js.LICENSE.txt",
+    "static/media/plusicon.f5d4d283.jpg": "https://shivshankar-kumar-au46.github.io/csb-8n7ypm/static/media/plusicon.f5d4d283.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47f11ec8.js",
+    "static/js/2.73da8367.chunk.js",
+    "static/css/main.18874c84.chunk.css",
+    "static/js/main.6ae70060.chunk.js"
+  ]
+}
